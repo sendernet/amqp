@@ -11,12 +11,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.0",
+        "php": "^8.0",
         "php-amqplib/php-amqplib": "3.5.4",
-        "illuminate/container": "^5.8",
-        "illuminate/pipeline": "^5.8",
-        "illuminate/support": "^5.8",
-        "laravel/helpers": "^1.1"
+        "illuminate/container": "^9.0|^10.0",
+        "illuminate/pipeline": "^9.0|^10.0",
+        "illuminate/support": "^9.0|^10.0",
+        "laravel/helpers": "^1.2"
     },
     "require-dev": {},
     "autoload": {
